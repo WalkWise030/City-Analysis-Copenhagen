@@ -1,4 +1,4 @@
-#WalkWise - An Urban Walkbilty Analysis Tool
+# WalkWise - An Urban Walkbilty Analysis Tool
 
 Urban design today faces a critical challenge: the absence of systematic and transparent methodologies that can be rigorously tested and validated. Traditional urban planning often falls short of addressing the complexities of modern cities. This mini-thesis aims to fill this gap by developing a 5D walkability indices tool that integrates urban morphology with accessibility to amenities, conceptualized as Human Activities Measurements. The goal is to create a comprehensive tool that assesses walkability by considering  urban form and human activity patterns, crucial for designing livable and walkable neighborhoods.
 
