@@ -12,10 +12,14 @@ The tool is deployed online using the Mapbox API, enhancing its usability throug
 WalkWise - Copenheghan City Walkabilty Analysis Web Page (Zoomed out view)![CityAnalsis](https://github.com/user-attachments/assets/9c093911-7e6b-47d0-b761-c640f745ddcc)
 
 
-
+WalkWise - Copenheghan City Walkabilty Analysis Web Page (Zoomed in view) 
+![city center](https://github.com/user-attachments/assets/1039879a-0602-4285-9e92-94dd0c00da88)
 
  WalkWise - Urban Design Proposal Walkabilty Analysis Web Page
-![cobeamty](https://github.com/user-attachments/assets/ae775d8c-d8f8-4ca0-9b90-0d6abb1128a4)
+ ![analysis2](https://github.com/user-attachments/assets/105d9fb3-1910-4152-a652-310ef5a0a069)
+
+
+
                                                         
 
 By combining quantitative analysis with visual interactivity, this project offers a systematic and transparent methodology for assessing urban walkability. This contributes to urban design by providing a rigorous, testable tool that can be validated and applied in various contexts. The tool’s integration of human behavior and urban form into walkability assessments ensures that designs align with the needs and preferences of city residents.
