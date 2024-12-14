@@ -1,4 +1,4 @@
-# WalkWise
+![CityAnalsis](https://github.com/user-attachments/assets/356f0ad5-ee7a-493e-b13d-24523ec65f16)# WalkWise
 
 Urban design today faces a critical challenge: the absence of systematic and transparent methodologies that can be rigorously tested and validated. Traditional urban planning often falls short of addressing the complexities of modern cities. This mini-thesis aims to fill this gap by developing a 5D walkability indices tool that integrates urban morphology with accessibility to amenities, conceptualized as Human Activities Measurements. The goal is to create a comprehensive tool that assesses walkability by considering  urban form and human activity patterns, crucial for designing livable and walkable neighborhoods.
 
@@ -9,8 +9,9 @@ We apply this tool to Copenhagen, particularly focusing on Jernbanebyen, a devel
 The tool is deployed online using the Mapbox API, enhancing its usability through interactive spatial visualizations. Users can explore different scenarios, evaluate walkability scores, and understand the impact of urban form on human behavior. This online platform serves as a resource for professionals and a way to engage the public in urban design. It provides a user-friendly interface where changes in design can be visualized and analyzed in terms of their effect on walkability.
 
 
-WalkWise - Copenheghan City Walkabilty Analysis Web Page (Zoomed out view)
-![walkindex](https://github.com/user-attachments/assets/5339caef-f1ad-4900-8ac0-b2a72984b805)
+WalkWise - Copenheghan City Walkabilty Analysis Web Page (Zoomed out view)![CityAnalsis](https://github.com/user-attachments/assets/9c093911-7e6b-47d0-b761-c640f745ddcc)
+
+
 
 
  WalkWise - Urban Design Proposal Walkabilty Analysis Web Page
